@@ -69,8 +69,8 @@
         }
     },
     "customurlscheme": "moodlemobile",
-    "siteurl": "http://europcar.academy",
-    "sitename": "Europcar Academy",
+    "siteurl": "https://pdd.training/campus",
+    "sitename": "",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
